@@ -55,12 +55,12 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet. 
 
 * Only the Jump Box machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-99.156.170.50 (Work Station) 
+Work Station IP
 
 Machines within the network can only be accessed by ssh from jumpbox.
 
 The machine allowed access to the ELK VM is work station and Jump Box
-* The IP Address is 99.156.170.50 (Work Station)
+* The IP Address is Work Station IP
 * The IP Address is 10.0.0.9 (Jump box)
 
 A summary of the access policies in place can be found in the table below.
