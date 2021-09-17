@@ -1,7 +1,7 @@
 Below are a list of the scripts that were created during Class activities
 
 - Backup.sh
--- THis shell creates a back up of Var, home and moves it to a specified location. It also creates a file report listing all files including file sizes as well as a disk report showing the ammount of free memory left.
+  - THis shell creates a back up of Var, home and moves it to a specified location. It also creates a file report listing all files including file sizes as well as a disk report showing the ammount of free memory left.
 
 - Cleanup.sh
 -- This shell cleans up the temporary directories and clears the apt cache and thumbnail cahce for specific users.
