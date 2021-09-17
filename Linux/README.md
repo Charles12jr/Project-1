@@ -1,4 +1,4 @@
-Below are a list of the scripts that were created during Class activities
+Below are a list of the scripts that were created during Class activities and their functions
 
 - Backup.sh
   - This shell creates a back up of Var, home and moves it to a specified location. It also creates a file report listing all files including file sizes as well as a disk report showing the ammount of free memory left.
