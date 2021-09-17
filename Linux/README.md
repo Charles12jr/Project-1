@@ -16,10 +16,10 @@ Below are a list of the scripts that were created during Class activities
   - This shell echo's system information such as hostname, DNS Servers, Memory Info, CPU info, Disk Usage.
 
 - System.sh
-- This shell creates text files showing free memory output, Disk usage output, free diskspace and a list of all open files.
+  - This shell creates text files showing free memory output, Disk usage output, free diskspace and a list of all open files.
 
 - Update.sh
--- This shell ensures apt has all available updates and then it upgrades all installed packages and removes unused packages and their associated configuration files.
+ - This shell ensures apt has all available updates and then it upgrades all installed packages and removes unused packages and their associated configuration files.
 
 - Useful_loops.sh
--- This shell prints out the permissions of each file in the file list. It also checks the sudo abilities of each user that has a home folder on the system.
+  - This shell prints out the permissions of each file in the file list. It also checks the sudo abilities of each user that has a home folder on the system.
